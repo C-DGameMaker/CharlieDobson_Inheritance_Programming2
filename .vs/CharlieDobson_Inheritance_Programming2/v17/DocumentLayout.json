@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_inheritance_programming2\\charliedobson_inheritance_programming2\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|solutionrelative:charliedobson_inheritance_programming2\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_inheritance_programming2\\charliedobson_inheritance_programming2\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|solutionrelative:charliedobson_inheritance_programming2\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_inheritance_programming2\\charliedobson_inheritance_programming2\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|solutionrelative:charliedobson_inheritance_programming2\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_inheritance_programming2\\charliedobson_inheritance_programming2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|solutionrelative:charliedobson_inheritance_programming2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_inheritance_programming2\\charliedobson_inheritance_programming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79DDC95-3602-41AF-812E-FDA05F11B2BD}|CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2.csproj|solutionrelative:charliedobson_inheritance_programming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Program.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Inheritance_Programming2\\Program.cs",
@@ -27,6 +43,59 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T14:48:43.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Character.cs",
+              "RelativeDocumentMoniker": "CharlieDobson_Inheritance_Programming2\\Character.cs",
+              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Character.cs",
+              "RelativeToolTip": "CharlieDobson_Inheritance_Programming2\\Character.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:02:13.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Archer.cs",
+              "RelativeDocumentMoniker": "CharlieDobson_Inheritance_Programming2\\Archer.cs",
+              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Archer.cs",
+              "RelativeToolTip": "CharlieDobson_Inheritance_Programming2\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:01:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Wizard.cs",
+              "RelativeDocumentMoniker": "CharlieDobson_Inheritance_Programming2\\Wizard.cs",
+              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Wizard.cs",
+              "RelativeToolTip": "CharlieDobson_Inheritance_Programming2\\Wizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:01:51.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Orc.cs",
+              "RelativeDocumentMoniker": "CharlieDobson_Inheritance_Programming2\\Orc.cs",
+              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Inheritance_Programming2\\CharlieDobson_Inheritance_Programming2\\Orc.cs",
+              "RelativeToolTip": "CharlieDobson_Inheritance_Programming2\\Orc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:02:01.872Z",
               "EditorCaption": ""
             }
           ]
